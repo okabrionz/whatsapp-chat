@@ -1,23 +1,23 @@
 /* Style for the WhatsApp button */
 .whatsapp-button {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #25d366; /* WhatsApp green */
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 50%;
-    font-size: 18px;
-    text-align: center;
-    text-decoration: none;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    z-index: 9999;
-    transition: background-color 0.3s ease;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366; /* WhatsApp green */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 11%;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+  transition: background-color 0.3s ease;
 }
 
 /* Hover effect */
 .whatsapp-button:hover {
-    background-color: #128c7e; /* Slightly darker WhatsApp green on hover */
+  background-color: #128c7e; /* Slightly darker WhatsApp green on hover */
 }
 
 /* Adjust the button size and position as needed for your design */
